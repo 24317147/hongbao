@@ -56,7 +56,7 @@
     </div>
     <div class="ali-hongbao-pc">
       <img src="./static/alihongbao.jpg">
-      <p>支付宝天天领红包</p>
+      <p>DuangDuangDuang</p>
     </div>
   </div>
 </template>
